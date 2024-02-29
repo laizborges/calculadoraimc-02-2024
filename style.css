@@ -1,0 +1,51 @@
+@charset "utf-8";
+
+
+body {
+    background-color: rgb(13, 140, 190); 
+    text-align: center;
+    
+}
+
+h1 {
+    color: white; 
+    font-family: Arial, Helvetica, sans-serif;
+   
+}
+
+label {
+     color: white; 
+    font-family: Arial, Helvetica, sans-serif;
+ 
+  
+ 
+}
+
+input {
+    padding: 10px;
+    border-radius: 20px;
+    margin: 20px;
+    border: none;
+}
+
+.peso {
+    margin-left: 5px;
+}
+
+
+button {
+   padding: 10px;
+   border-radius: 17px;
+   border: none;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    color: aliceblue;
+}
+
+
+img {
+    height: 240px;
+    width: 300px;
+}
